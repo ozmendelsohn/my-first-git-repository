@@ -4,7 +4,7 @@ from matplotlib import use
 import numpy as np
 use('TkAgg')
 x = np.arange(start=0, stop=2*np.pi, step=0.01)
-y = np.sin(x)
+y = np.log(x)
 
 plt.plot(x, y)
 plt.title('This is Not a Line!')
