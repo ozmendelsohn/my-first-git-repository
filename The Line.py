@@ -9,4 +9,3 @@ y = np.log(x)
 plt.plot(x, y)
 plt.title('This is Not a Line!')
 plt.show()
-
