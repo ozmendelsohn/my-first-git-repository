@@ -1,4 +1,4 @@
-# let make a line!
+# let make a line! the name of the branch is the-odd-one
 from matplotlib import pyplot as plt
 from matplotlib import use
 import numpy as np
